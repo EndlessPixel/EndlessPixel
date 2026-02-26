@@ -1,3 +1,5 @@
+![background](./background.png)
+
 # EndlessPixel
 
 ## English
